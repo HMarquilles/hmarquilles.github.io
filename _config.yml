@@ -1,4 +1,3 @@
 title: GG
-description: Notas sobre datos, sistemas y decisiones
-theme: minima
-
+description: Un espacio de reflexión sobre datos, sistemas y decisiones en contextos reales.
+theme: jekyll-theme-slate

@@ -1,4 +1,8 @@
 title: HM
-description: Notas sobre datos, sistemas y decisiones
+description: Un espacio de reflexión sobre datos, sistemas y decisiones en contextos reales.
 theme: minima
+
+header_pages:
+  - about.md
+  - blog.md
 

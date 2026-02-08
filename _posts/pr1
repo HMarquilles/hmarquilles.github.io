@@ -1,9 +1,17 @@
 ---
 layout: post
-title: "Prueba 1 - Que tal sale el blog"
+title: "Post de prueba"
 ---
 
-Cuando un ecommerce entra en una fase de caída de ventas,
-la reacción más habitual es acelerar.
+Este es un **post de prueba** para comprobar que el blog funciona correctamente.
 
-Antes de actuar, conviene entender qué se ha roto realmente.
+Si estás leyendo esto en `/blog`, todo está bien configurado.
+
+---
+
+### Lista de prueba
+- Punto uno
+- Punto dos
+
+> Los datos no dicen qué hacer, dicen dónde mirar.
+
